@@ -1,7 +1,7 @@
 {
     "posts":[
-        {"id":1,"title":"User Uno"},
-        {"id":2,"title":"User Two"},
-        {"id":3,"title":"User Three"}
+        {"id":1,"title":"User Uno","body":"Magna anim amet commodo commodo et duis veniam laboris. Dolor veniam officia sit duis amet exercitation sunt occaecat proident fugiat. Exercitation adipisicing dolore et aliquip quis cillum culpa adipisicing veniam eu eiusmod. Cupidatat aute incididunt consequat sunt mollit ex proident ut."},
+        {"id":2,"title":"User Two","body":"Magna anim amet commodo commodo et duis veniam laboris. Dolor veniam officia sit duis amet exercitation sunt occaecat proident fugiat. Exercitation adipisicing dolore et aliquip quis cillum culpa adipisicing veniam eu eiusmod. Cupidatat aute incididunt consequat sunt mollit ex proident ut."},
+        {"id":3,"title":"User Three","body":"Magna anim amet commodo commodo et duis veniam laboris. Dolor veniam officia sit duis amet exercitation sunt occaecat proident fugiat. Exercitation adipisicing dolore et aliquip quis cillum culpa adipisicing veniam eu eiusmod. Cupidatat aute incididunt consequat sunt mollit ex proident ut."}
     ]
 }
